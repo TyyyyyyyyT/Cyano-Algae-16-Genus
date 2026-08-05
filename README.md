@@ -9,7 +9,7 @@ HAB-CM16 is a microscopic image dataset designed for genus-level detection of ha
 
 **Dataset location:**
 
-GitHub repository: https://github.com/TyyyyyyyyT/CTCB-16Genus/tree/master
+GitHub repository: https://github.com/TyyyyyyyyT/HAB-CM16/tree/master
 
 **Numbering information:**
 | Classes              | No.         | Total |
