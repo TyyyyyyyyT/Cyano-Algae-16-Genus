@@ -30,4 +30,4 @@ GitHub repository: https://github.com/TyyyyyyyyT/HAB-CM16/tree/master
 | _Prorocentrum_       | 7018-7453   | 436   |
 | _Raphidiopsis_       | 7454-7716   | 263   |
 | _Skeletonema_        | 7717-8119   | 403   |
-**| _Overall_            | 1-8119      | 8119  |**
+| _**Overall**_            | **1-8119**      | **8119**  |
