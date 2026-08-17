@@ -1,15 +1,19 @@
-# HAB-CM16
+# Cyano-Algae 16 Genus
 **Dataset full name:**
 
-Harmful Algal Bloom-associated Cyanobacteria and Microalgae 16-Genus Dataset
+Cyanobacteria and microalgae 16-genus dataset
 
 **Dataset description:**
 
-HAB-CM16 is a microscopic image dataset designed for genus-level detection of harmful algal bloom-associated organisms. It contains 8,119 images from 16 genera, including 11 cyanobacterial genera and 5 eukaryotic microalgal genera. All images have been standardized to a resolution of 640 × 640 pixels to match the input format used for YOLO-based model training while preserving morphological and texture-related information. The cyanobacterial genera are _Anabaena_, _Aphanizomenon_, _Cylindrospermopsis_, _Dolichospermum_, _Microcystis_, _Nodularia_, _Nostoc_, _Oscillatoria_, _Phormidium_, _Planktothrix_, and _Raphidiopsis_. The eukaryotic microalgal genera are _Gymnodinium_, _Karenia_, _Noctiluca_, _Prorocentrum_, and _Skeletonema_, among which _Gymnodinium_, _Karenia_, _Noctiluca_, and _Prorocentrum_ are dinoflagellates, and _Skeletonema_ is a diatom. This dataset is intended for microscopic screening of harmful cyanobacteria and microalgae in water-quality monitoring rather than direct toxicity determination.
+Cyano-Algae 16 Genus is a microscopic RGB image dataset designed for genus-level detection of potentially harmful cyanobacteria and microalgae. It contains 8,119 images from 16 genus-level classes, including 11 cyanobacterial genera and 5 eukaryotic microalgal genera. All images have been standardized to a resolution of 640 × 640 pixels to match the input format used for YOLO-based model training while preserving morphological, texture and color-related information. 
+
+The cyanobacterial genera include _Anabaena_, _Aphanizomenon_, _Cylindrospermopsis_, _Dolichospermum_, _Microcystis_, _Nodularia_, _Nostoc_, _Oscillatoria_, _Phormidium_, _Planktothrix_, and _Raphidiopsis_. The eukaryotic microalgal genera are _Gymnodinium_, _Karenia_, _Noctiluca_, _Prorocentrum_, and _Skeletonema_, among which _Gymnodinium_, _Karenia_, _Noctiluca_, and _Prorocentrum_ are dinoflagellates, and _Skeletonema_ is a diatom. 
+
+This dataset is intended for microscopic screening of potentially harmful cyanobacteria and microalgae in water-quality monitoring rather than direct toxicity determination.
 
 **Dataset location:**
 
-GitHub repository: https://github.com/TyyyyyyyyT/HAB-CM16/tree/master
+GitHub repository: https://github.com/TyyyyyyyyT/Cyano-Algae-16-Genus/tree/master
 
 **Numbering information:**
 | Classes              | No.         | Total |
